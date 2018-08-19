@@ -1,1 +1,2 @@
-# ztm-108-dom-events
+# Excercise 108 from Zero To Mastery, DOM Events section
+
