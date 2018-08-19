@@ -4,7 +4,7 @@ var ul = document.querySelector("ul");
 
 
 function checkInputLength() {
-	return input.value.length;
+  return input.value.length;
 }
 
 function addDoneButton () { 
